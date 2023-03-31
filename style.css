@@ -197,7 +197,7 @@ body {
 }
 
 
-.attribution { font-size: 11px; text-align: center; color: var(--pale-blue)}
+.attribution { font-size: 1.6rem; text-align: center; color: var(--pale-blue)}
 .attribution a { color: hsl(228, 45%, 44%); color: var(--grayish-blue)}
 
 
